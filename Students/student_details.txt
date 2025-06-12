@@ -2,9 +2,9 @@ There are 6 students in total for this class.
 For each student, we will store their names and current score for the class.
 The students are currently arranged based on decreasing order of their score.
 
-1. James (91%)
-2. Tim (83%)
-3. Samantha (81%)
-4. Paul (75%)
-5. Rea (70%)
-6. Lenny (66%)
+1. James (90%)
+2. Tim (82%)
+3. Samantha (80%)
+4. Paul (74%)
+5. Rea (69%)
+6. Lenny (65%)
