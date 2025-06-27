@@ -2,6 +2,7 @@ There are 7 students in total for this class.
 For each student, we will store their names and current score for the class.
 The students are currently arranged based on decreasing order of their score.
 
+<<<<<<< HEAD
 1. James (91%)
 2. Jeffrey Wong (85%)
 3. Tim (83%)
@@ -9,3 +10,11 @@ The students are currently arranged based on decreasing order of their score.
 5. Paul (75%)
 6. Rea (70%)
 7. Lenny (66%)
+=======
+1. James (90%)
+2. Tim (82%)
+3. Samantha (80%)
+4. Paul (74%)
+5. Rea (69%)
+6. Lenny (65%)
+>>>>>>> refs/heads/Jeffrey_Wong_feature2
