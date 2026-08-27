@@ -1,0 +1,3 @@
+Name: Roman Daniel Hernandez Gagero
+Current Focus: Database management, Python automation, and SQL.
+I am taking Code Management in DevOps to improve CI/CD pipelines and version control practices.
